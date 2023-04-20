@@ -48,7 +48,7 @@ Spring 프로젝트 이웃집 반찬
 
 
 # ERD
-
+![banchan drawio](https://user-images.githubusercontent.com/122762326/233344370-0b01a97b-76d8-4440-9e23-8349e8669c7f.png)
 
 # 프로젝트에서 느낀점
 - 어려웠던 부분 
