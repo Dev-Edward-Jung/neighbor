@@ -17,7 +17,6 @@ Spring 프로젝트 이웃집 반찬
 - java
 - jQuery
 - Thymeleaf
-- QueryDSL
 - MyBatis
 - Spring Boot
 - HTML, CSS, JS
