@@ -53,7 +53,7 @@ Spring 프로젝트 이웃집 반찬
 # 📅 프론트엔드 진행률
 ![neighbor_front](https://github.com/dev-Adward/neighbor/assets/122762326/17c74116-1600-44a1-a984-686c21856435)
 
-# 📆 맥엔드 진행률
+# 📆 백엔드 진행률
 ![neighbor_back](https://github.com/dev-Adward/neighbor/assets/122762326/27697026-f316-4fda-9fb2-4f9e3700d500)
 
 
